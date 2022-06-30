@@ -12,8 +12,6 @@ main.dist/
 main.onefile-build/
 generated/
 botty_v*/
-custom.ini
-config/custom.ini
 config/custom.*.ini
 .vscode
 .vs/
@@ -25,7 +23,6 @@ htmlcov/
 coverage.xml
 utils/live-view/
 config/bnip/*
-!config/bnip/.gitkeep
 stats/
 info_screenshots/
 item_error_screenshots/
